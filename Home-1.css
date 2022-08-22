@@ -188,7 +188,7 @@
 }
 
  .u-section-3-1 {
-  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('/56b0c5fedd089594778b4733.webp');
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('56b0c5fedd089594778b4733.webp');
   background-blend-mode: darken;
   background-position: 514
   0% 50%;
@@ -311,7 +311,7 @@
 }
 
  .u-section-3-2 {
-  background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url('/beeple-1024x1024.jpg');
+  background-image: linear-gradient( rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2) ), url('beeple-1024x1024.jpg');
   background-position: 50% 50%;
 }
 
